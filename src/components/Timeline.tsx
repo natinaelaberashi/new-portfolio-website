@@ -16,47 +16,50 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="08/2024 - Present"
+            date="08/2024 – Present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Fraud Operations & Customer Support Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">Euronet Polska Sp. z o.o. (Ria Money Transfer Project) • Poland</h4>
-            <p>
-              Monitored digital account activity and online transactions to detect fraudulent activity and policy violations,
-              verified suspicious behavior through phone and email authentication, documented fraud investigations,
-              and secured compromised accounts to minimize losses while supporting compliance.
-            </p>
+            <ul>
+              <li>Monitored digital account activity and online transactions to detect fraudulent transactions and policy violations.</li>
+              <li>Verified suspicious activity through customer authentication via phone and email.</li>
+              <li>Documented investigations and maintained accurate fraud case records.</li>
+              <li>Secured compromised accounts to minimize fraud losses.</li>
+            </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="07/2023 - 07/2024"
+            date="07/2023 – 07/2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Fraud Operations & Customer Support Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">Concentrix CVG International Sp. z o.o. • Poland</h4>
-            <p>
-              Investigated suspicious transactions and mitigated fraud risks, verified customer transactions,
-              and collaborated with internal teams to resolve fraud cases and confirm transaction legitimacy.
-            </p>
+            <ul>
+              <li>Investigated suspicious transactions and mitigated fraud risks.</li>
+              <li>Verified customer transactions and supported fraud investigations.</li>
+              <li>Collaborated with internal teams to resolve fraud cases and verify transaction legitimacy.</li>
+            </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="08/2020 - 09/2021"
+            date="08/2020 – 09/2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Risk & Fraud Operations Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">Commercial Bank of Ethiopia (CBE) • Ethiopia</h4>
-            <p>
-              Investigated account and authentication risks, identified suspicious activity and escalated exceptions,
-              verified transactions, and supported fraud risk resolution for customer and account protection.
-            </p>
+            <ul>
+              <li>Investigated account and authentication risks.</li>
+              <li>Identified suspicious activity and escalated exceptions.</li>
+              <li>Verified transactions and supported fraud risk resolution.</li>
+            </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="10/2021 - 07/2023"
+            date="10/2021 – 07/2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faGraduationCap} />}
           >

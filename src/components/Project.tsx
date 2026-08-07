@@ -4,7 +4,7 @@ import '../assets/styles/Project.scss';
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Fraud Operations Experience</h1>
+        <h1>Supporting Projects & Experience</h1>
         <div className="projects-grid">
             <div className="project">
                 <h2>Fraud Monitoring & Investigation</h2>

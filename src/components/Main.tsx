@@ -24,12 +24,14 @@ function Main() {
             <a href="https://natinaelaberashi.github.io/portfolio-website" target="_blank" rel="noreferrer"><LanguageIcon/></a>
           </div>
           <h1>Natinael Abera Shibeshi</h1>
-          <p>Fraud Operations Analyst | Fraud Investigation | Transaction Monitoring | Risk Management | Customer Verification | Account Security</p>
+          <p>Fraud Operations Analyst</p>
+          <p>Fraud Investigation | Transaction Monitoring | Customer Verification | Risk Management | Account Security</p>
           <p>
-            Fraud operations professional with experience in transaction monitoring, fraud investigation,
-            customer verification, account security, and risk assessment. Skilled at identifying suspicious
-            activity, reviewing fraud alerts, documenting investigations, and collaborating with stakeholders
-            to reduce financial risk while supporting regulatory compliance.
+            Fraud Operations professional with experience in transaction monitoring, fraud investigation,
+            customer verification, account security, fraud prevention, and risk assessment. Skilled at
+            identifying suspicious activity, investigating fraud alerts, documenting findings, verifying
+            transactions, securing compromised accounts, and collaborating with stakeholders to minimize
+            financial risk while maintaining regulatory compliance.
           </p>
 
           <div className="contact-details">
