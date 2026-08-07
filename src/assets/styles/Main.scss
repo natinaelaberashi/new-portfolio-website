@@ -36,6 +36,27 @@
         display: none;
     }
 
+    .resume-download {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-top: 20px;
+        padding: 12px 18px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.16);
+        color: white;
+        text-decoration: none;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        backdrop-filter: blur(8px);
+        width: fit-content;
+        transition: transform 0.2s ease, background 0.2s ease;
+
+        &:hover {
+            transform: translateY(-2px);
+            background: rgba(255, 255, 255, 0.24);
+        }
+    }
+
     p {
         font-size: 1.5em;
         margin-block-start: 0px;
@@ -131,6 +152,10 @@
             svg {
                 font-size: 1.8em;
             }
+        }
+
+        .resume-download {
+            margin-top: 16px;
         }
 
         .about-section {

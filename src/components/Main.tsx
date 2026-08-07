@@ -5,6 +5,7 @@ import LanguageIcon from '@mui/icons-material/Language';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import PhoneAndroidIcon from '@mui/icons-material/PhoneAndroid';
+import DownloadIcon from '@mui/icons-material/Download';
 import '../assets/styles/Main.scss';
 
 function Main() {
@@ -37,6 +38,10 @@ function Main() {
             <p><PhoneAndroidIcon /> +48 539 783 189</p>
             <p><LanguageIcon /> natinaelaberashi.github.io/portfolio-website</p>
           </div>
+
+          <a className="resume-download" href="/resume.pdf" download>
+            <DownloadIcon /> Download Resume (PDF)
+          </a>
 
           <div className="mobile_social_icons">
             <a href="mailto:shibeshinatinaelabera@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a>
