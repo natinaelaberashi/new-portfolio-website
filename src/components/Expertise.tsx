@@ -26,10 +26,10 @@ const labelsSecond = [
 const labelsThird = [
     "Microsoft Office",
     "Microsoft Excel",
+    "Documentation & Record Keeping",
     "CRM Systems",
     "Case Management Systems",
-    "Fraud Monitoring Tools",
-    "Payment Processing Platforms"
+    "Multi-System Navigation"
 ];
 
 function Expertise() {

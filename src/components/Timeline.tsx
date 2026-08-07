@@ -23,9 +23,9 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Fraud Operations & Customer Support Analyst</h3>
             <h4 className="vertical-timeline-element-subtitle">Euronet Polska Sp. z o.o. (Ria Money Transfer Project) • Poland</h4>
             <p>
-              Monitored digital account activity and online transactions to detect fraud and policy violations,
-              verified suspicious activity through phone and email authentication, documented investigations,
-              and secured compromised accounts to minimize fraud losses.
+              Monitored digital account activity and online transactions to detect fraudulent activity and policy violations,
+              verified suspicious behavior through phone and email authentication, documented fraud investigations,
+              and secured compromised accounts to minimize losses while supporting compliance.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -51,7 +51,7 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">Commercial Bank of Ethiopia (CBE) • Ethiopia</h4>
             <p>
               Investigated account and authentication risks, identified suspicious activity and escalated exceptions,
-              and verified transactions to support fraud risk resolution.
+              verified transactions, and supported fraud risk resolution for customer and account protection.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -63,7 +63,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Education</h3>
             <h4 className="vertical-timeline-element-subtitle">MSc Management & Organization • Silesian University of Technology</h4>
             <p>
-              Advanced education in management and organization aligned with professional experience in risk and fraud operations.
+              MSc in Management & Organization, with academic grounding in leadership and organizational practice that supports professional work in fraud operations and risk management.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

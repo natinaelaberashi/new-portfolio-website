@@ -54,7 +54,7 @@ function Contact() {
       <div className="items-container">
         <div className="contact_wrapper">
           <h1>Contact Me</h1>
-          <p>Open to fraud operations, fraud investigation, transaction monitoring, and risk management opportunities. Reach out for roles, collaborations, or discussions about fraud prevention and account security.</p>
+          <p>Open to fraud operations, fraud investigation, transaction monitoring, and risk management opportunities in Poland and beyond. Reach out for roles, collaborations, or discussions about fraud prevention, account security, and customer protection.</p>
           <Box
             ref={form}
             component="form"
