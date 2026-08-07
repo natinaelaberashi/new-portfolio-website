@@ -10,7 +10,7 @@
     width: 100%;
     padding: 0px 15%;
     min-height: 700px;
-    background-image: url("../images/bg-dark.png");
+    background: linear-gradient(135deg, rgba(16, 24, 40, 0.98), rgba(36, 58, 95, 0.95));
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -58,23 +58,28 @@
     }
 
     p {
-        font-size: 1.5em;
+        font-size: 1.35em;
+        line-height: 1.6;
         margin-block-start: 0px;
         margin-block-end: 0px;
+        max-width: 760px;
     }
 
     h1 {
-        font-size: 5em;
+        font-size: 4.6em;
         margin-block-start: 0px;
-        margin-block-end: 0px;
+        margin-block-end: 10px;
+        letter-spacing: -0.02em;
     }
 }
 
 .about-section .image-wrapper {
     z-index: 2;
     img {
-        width: 150px;
+        width: 170px;
         border-radius: 50%;
+        border: 4px solid rgba(255, 255, 255, 0.18);
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
     }
 }
 
