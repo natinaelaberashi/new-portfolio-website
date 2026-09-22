@@ -1,28 +1,23 @@
-# Portfolio Website — Legacy Repository
+# Portfolio Website — Legacy
 
-This repository contains an earlier version of Natinael Abera Shibeshi's portfolio website.
+This repository contains an **earlier portfolio website implementation** and is no longer the primary portfolio.
 
-The current professional positioning is:
+## Current Professional Positioning
 
 **Operations & Support Specialist | Data Analysis | Incident & Process Support**
 
-For current portfolio projects and professional information, use the main portfolio repository and website.
+For the current portfolio, projects, and professional information, use:
 
-## Current focus
+- **Main portfolio:** https://natinaelaberashi.github.io/portfolio-website
+- **GitHub profile:** https://github.com/natinaelaberashi
+- **LinkedIn:** https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
 
-- Operations and customer support
-- Incident and case resolution
-- KPI and SLA monitoring
-- SQL and operational data analysis
-- Process and root-cause analysis
-- Power BI, Excel, Zendesk and Salesforce
+## Why this repository remains
 
-## Main links
+It is retained only as a historical version of the portfolio. The current portfolio has been rebuilt around operations/support, incident management, KPI/SLA monitoring, SQL/data analysis, and technical support learning projects.
 
-- Portfolio: https://natinaelaberashi.github.io/portfolio-website
-- GitHub: https://github.com/natinaelaberashi
-- LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
+## Important
 
-## Note
+This repository should **not** be treated as the current portfolio or as evidence of a separate professional specialization.
 
-This repository is retained as a previous portfolio implementation. The main portfolio repository is portfolio-website.
+The current portfolio repository is `portfolio-website`.
