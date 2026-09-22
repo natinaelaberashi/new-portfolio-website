@@ -1,27 +1,28 @@
-# Portfolio Website
+# Portfolio Website — Legacy Repository
 
-This repository contains the portfolio website for Natinael Abera Shibeshi, a Fraud Operations Analyst with experience in fraud investigation, transaction monitoring, customer verification, and risk management.
+This repository contains an earlier version of Natinael Abera Shibeshi's portfolio website.
 
-## Live Demo
+The current professional positioning is:
 
-https://natinaelaberashi.github.io/portfolio-website
+**Operations & Support Specialist | Data Analysis | Incident & Process Support**
 
-## About
+For current portfolio projects and professional information, use the main portfolio repository and website.
 
-The site highlights Natinael's experience in fraud operations, suspicious activity investigation, transaction verification, account security, fraud prevention, and stakeholder collaboration.
+## Current focus
 
-## Contact
+- Operations and customer support
+- Incident and case resolution
+- KPI and SLA monitoring
+- SQL and operational data analysis
+- Process and root-cause analysis
+- Power BI, Excel, Zendesk and Salesforce
 
-- Email: shibeshinatinaelabera@gmail.com
-- LinkedIn: https://www.linkedin.com/in/natinael-abera
+## Main links
 
-## Deployment
+- Portfolio: https://natinaelaberashi.github.io/portfolio-website
+- GitHub: https://github.com/natinaelaberashi
+- LinkedIn: https://www.linkedin.com/in/natinael-abera-shibeshi-8077b826b
 
-This project uses GitHub Pages for deployment. The deployment scripts are configured in `package.json`.
+## Note
 
-To deploy the site:
-
-```bash
-npm install
-npm run deploy
-```
+This repository is retained as a previous portfolio implementation. The main portfolio repository is portfolio-website.
